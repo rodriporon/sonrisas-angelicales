@@ -30,9 +30,10 @@ export default function Home () {
       <div className=' dark:bg-gray-900 h-auto'>
         <div className=' items-center p-5'>
           <div className='max-w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700'>
-            <div className='p-2'>
-              <h1 className='text-3xl font-bold text-center text-gray-800 dark:text-white'>¿Quiénes somos?</h1>
-              <p className='text-center text-gray-600 dark:text-gray-400'>Lorem impsum.</p>
+            <div className='p-12'>
+              <blockquote className='text-xl font-semibold text-center md:text-lg tracking-tight text-gray-900 dark:text-white'>
+                <p>TRABAJAMOS CON ENTUSIASMO Y ALEGRÍA PARA QUE TODA LA NIÑEZ GUATEMALTECA TENGA ACCESO A UNA EDUCACIÓN DE CALIDAD, INCLUYENTE Y CON TECNOLOGÍA, DIGNA DEL SIGLO XXI.</p>
+              </blockquote>
             </div>
           </div>
         </div>
