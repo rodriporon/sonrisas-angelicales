@@ -10,7 +10,7 @@ export default function Home () {
         <meta name='description' content='Sonrisas angelicales' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <div className=' dark:bg-gray-900 h-screen bg-sky-50'>
+      <div className=' dark:bg-gray-900 xl:h-screen bg-sky-50'>
         <NavbarComponent />
         <div className='flex flex-col justify-center items-center p-5'>
           <div className='max-w-4xl bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700'>
