@@ -31,8 +31,11 @@ export default function Home () {
         <div className=' items-center p-5'>
           <div className='max-w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700'>
             <div className='p-12'>
-              <blockquote className='text-xl font-semibold text-center md:text-lg tracking-tight text-gray-900 dark:text-white'>
+              <blockquote className='py-4 text-xl font-sans font-semibold text-center md:text-lg tracking-tight text-gray-900 dark:text-white'>
                 <p>TRABAJAMOS CON ENTUSIASMO Y ALEGRÍA PARA QUE TODA LA NIÑEZ GUATEMALTECA TENGA ACCESO A UNA EDUCACIÓN DE CALIDAD, INCLUYENTE Y CON TECNOLOGÍA, DIGNA DEL SIGLO XXI.</p>
+              </blockquote>
+              <blockquote className='text-base font-sans font-normal text-center md:text-lg tracking-tight text-gray-900 dark:text-white'>
+                <p>Somos una fundación que busca contribuir al desarrollo de Guatemala, mejorando la educación a través de la tecnología. En el futuro que nosotros imaginamos, todos los niños y adolescentes tienen acceso a los mismos recursos educativos y a docentes con capacidades que les permitan crecer y aprender aún más. Por eso trabajamos apasionadamente por ser la organización pionera, líder e innovadora y trascender en el desarrollo de Guatemala.</p>
               </blockquote>
             </div>
           </div>

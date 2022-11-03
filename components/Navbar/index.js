@@ -21,17 +21,17 @@ export default function NavbarComponent () {
       <Navbar.Collapse>
         <Navbar.Link
           className='active:text-red-500'
-          href='/navbars'
+          href='/'
         >
           Sobre SA
         </Navbar.Link>
-        <Navbar.Link href='/navbars'>
+        <Navbar.Link href='/'>
           Nuestro Trabajo
         </Navbar.Link>
-        <Navbar.Link href='/navbars'>
+        <Navbar.Link href='/'>
           Nuestro Impacto
         </Navbar.Link>
-        <Navbar.Link href='/navbars'>
+        <Navbar.Link href='/'>
           Recaudación
         </Navbar.Link>
       </Navbar.Collapse>
